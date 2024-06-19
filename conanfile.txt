@@ -1,0 +1,7 @@
+[requires]
+magic_enum/0.7.3
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
